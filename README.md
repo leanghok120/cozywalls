@@ -9,9 +9,9 @@ My collection of high quality cozy wallpapers. I found these wallpapers from [Pi
 
 ### Previews
 
-![Firewatch](./firewatch.jpg)
+![Cozy Trip](./cozy-trip.jpg)
 
-![Cat Leaves](./cat_leaves.png)
+![Christmas Night](./christmas-night-cartoon.jpg)
 
 ![Cozy Indoor Garden Dark](./green-indoor-garden.jpg)
 
